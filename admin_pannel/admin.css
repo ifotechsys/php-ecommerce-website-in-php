@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+    width: 420px;
+    height: 555px;
+    background: #fff;
+    padding: 25px 30px;
+    margin: 5.8% auto;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: relative;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    margin-left: 80px;
+}
+.Sign{
+    font-size: 19px;
+    margin-left: 146px;
+    margin-top: 16px;
+    font-weight: 700;
+    color: #898989;
+}
+.Username{
+    background-color: #fafafa;
+    border-radius: 2px;
+    width: 368px;
+    border: 1px solid #eee;
+    height: 38px;
+    font-size: 15px;
+    color: rgba(0,0,0,.6);
+    padding: 6px 12px;
+    line-height: 1.42857143;
+}
+.checkbox{
+    height: 20px;
+    width: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.Remember{
+    margin-top: 14px;
+    margin-left: 8px;
+    font-size: 13x;
+    font-weight: 400;
+    position: absolute;
+}
+.log{
+    margin-top: 22px;
+    background-color: #03a9f4;
+    margin-left: 140px;
+    width: 105px;
+    height: 34px;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    padding: -1px 14px;
+    color: white;
+}
+.log:hover{
+    background-color: #0a8bc7;
+}
+.forget{
+    color: #898989;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.fa-lock{
+    font-size: 12px;
+}
+.forget-right{
+    color: #898989;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-left: 74px;
+}
+
+
+
+  /* ---------------------------- LOGIN PAGE END --------------------------- */
+
